@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "先輩",
+  "base_artist": "乃紫",
+  "createdAt": "2026-03-22T18:58:11.234951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "先輩",
+      "artist": "倖山リオ",
+      "has_synced": false,
+      "path": "select/01_先輩_倖山リオ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Senpai, Please Notice Me! (先輩、私に気付いて下さい！)",
+      "artist": "Sithu Aye",
+      "has_synced": true,
+      "path": "select/02_Senpai,_Please_Notice_Me!_(先輩、私に気付いて下さい!)_Sithu_Aye.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "2-1.先輩、これで思い出せますよね(スキンシップ→ラブ握りベロチュー騎乗位)",
+      "artist": "へぶんすてーと",
+      "has_synced": true,
+      "path": "select/03_2-1.先輩、これで思い出せますよね(スキンシップ→ラブ握りベロチュー騎乗位)_へぶんすてーと.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1,先輩、なんでゆのがいるのに彼女作ったんですか？",
+      "artist": "M屋",
+      "has_synced": true,
+      "path": "select/04_1,先輩、なんでゆのがいるのに彼女作ったんですか_M屋.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "6,先輩、好き好き大好き！結婚して！",
+      "artist": "M屋",
+      "has_synced": true,
+      "path": "select/05_6,先輩、好き好き大好き!結婚して!_M屋.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "【04】先輩！おちんぽ特訓のお時間ですよ♪",
+      "artist": "ぱちぱちぼいす",
+      "has_synced": true,
+      "path": "select/06_【04】先輩!おちんぽ特訓のお時間ですよ♪_ぱちぱちぼいす.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "0「先輩……好きですよ、これからもずっと」",
+      "artist": "暗黒あずまや",
+      "has_synced": true,
+      "path": "select/07_0「先輩......好きですよ、これからもずっと」_暗黒あずまや.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1「ごめんなさい……先輩、私……不良達に……」",
+      "artist": "暗黒あずまや",
+      "has_synced": true,
+      "path": "select/08_1「ごめんなさい......先輩、私......不良達に......」_暗黒あずまや.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "１　先輩、お出かけしましょう♪",
+      "artist": "しゃーぷ",
+      "has_synced": true,
+      "path": "select/09_1_先輩、お出かけしましょう♪_しゃーぷ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "8.先輩。",
+      "artist": "酒熊評議会",
+      "has_synced": true,
+      "path": "select/10_8.先輩。_酒熊評議会.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "6.先輩？先輩ですよね？…早くセックスしましょ？【覚醒度98%】",
+      "artist": "脳汁ドロップ",
+      "has_synced": true,
+      "path": "select/11_6.先輩_先輩ですよね_...早くセックスしましょ_【覚醒度98_】_脳汁ドロップ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1.『先輩、この前はありがとうございました』",
+      "artist": "防鯖潤滑剤",
+      "has_synced": true,
+      "path": "select/12_1.『先輩、この前はありがとうございました』_防鯖潤滑剤.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "4H.『戻ってきてくれたんですね。先輩……♪』",
+      "artist": "防鯖潤滑剤",
+      "has_synced": true,
+      "path": "select/13_4H.『戻ってきてくれたんですね。先輩......♪』_防鯖潤滑剤.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "6H.『えー？　先輩、そんなことしたいんですか……♪』",
+      "artist": "防鯖潤滑剤",
+      "has_synced": true,
+      "path": "select/14_6H.『えー__先輩、そんなことしたいんですか......♪』_防鯖潤滑剤.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "7H.『先輩……やきもち焼いちゃったんですか……♪』",
+      "artist": "防鯖潤滑剤",
+      "has_synced": true,
+      "path": "select/15_7H.『先輩......やきもち焼いちゃったんですか......♪』_防鯖潤滑剤.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Track0_待っててくださいね、先輩。",
+      "artist": "甘イキ∞カプセル",
+      "has_synced": true,
+      "path": "select/16_Track0_待っててくださいね、先輩。_甘イキ∞カプセル.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Track1_もしもし、先輩？",
+      "artist": "甘イキ∞カプセル",
+      "has_synced": true,
+      "path": "select/17_Track1_もしもし、先輩_甘イキ∞カプセル.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Track6_せ、先輩？どうしたんですか？",
+      "artist": "甘イキ∞カプセル",
+      "has_synced": true,
+      "path": "select/18_Track6_せ、先輩_どうしたんですか_甘イキ∞カプセル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "先輩",
+      "artist": "乃紫",
+      "has_synced": false,
+      "path": "select/pl_01_先輩_乃紫.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "先輩",
+      "artist": "乃紫",
+      "has_synced": false,
+      "path": "select/localdb_01_先輩_乃紫.txt",
+      "repo_name": "Eo_Tq83B-fA"
+    }
+  ]
+}
